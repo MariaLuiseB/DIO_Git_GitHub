@@ -16,3 +16,9 @@ git push -u origin main
 ```
 
 ## Baixando (PULL) Alterações do Repositório Remoto
+
+1. Vá até o seu repositório local.
+2. Baixe (PULL) os commits para a sua máquina dessa forma: 
+``` 
+git pull
+```
