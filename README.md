@@ -22,8 +22,5 @@ Este é um repositório para armazenar resumos sobre Git e GitHub do curso Versi
 | Desfazendo Alterações no Repositório Local | [Resumo-3](resumos/resumo-aula3.md) | 
 | Enviando e Baixando Alterações do Repositório Local para o Repositório Remoto | [Resumo-4](resumos/resumo-aula4.md) | 
 
-
-
-
 ## 🖇️ Referências
 - [Digital Innovation One](https://www.dio.me/)
