@@ -1,7 +1,11 @@
+<h1> 
+<a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> 
+    DIO | Resumos Git e GitHub
+</h1>
+Olá! Meu nome é Maria Luise e venha aprender comigo!
 
-# DIO | Resumos Git e GitHub
-
-Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/) com a expert Elidiana Andrade.
+Este é um repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/) com a expert Elidiana Andrade.
 
 **Obs: Fazer todos os comandos no git Bash**
 
