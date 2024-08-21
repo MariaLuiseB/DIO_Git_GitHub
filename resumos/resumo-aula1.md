@@ -12,3 +12,5 @@ git init -- inicializa a pasta atual como um repositório git
 
 ```
 git clone <URL> -- clona um repositório git existente
+```
+

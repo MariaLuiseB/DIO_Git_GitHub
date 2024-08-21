@@ -1,5 +1,7 @@
 # Enviando e Baixando Alterações do Repositório Local para o Repositório Remoto
 
+## Enviando (PUSH) Alterações do Repositório Local
+
 1. Tenha certeza de que todos os commits foram adicionados e commitados.
 
 2. Crie no seu GitHub, um repositório (caso não tenha) 
@@ -12,3 +14,5 @@ git remote add origin <endereço https do repositório remoto que você quer env
 ``` 
 git push -u origin main
 ```
+
+## Baixando (PULL) Alterações do Repositório Remoto
