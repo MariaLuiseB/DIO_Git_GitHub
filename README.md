@@ -15,7 +15,5 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 |--------|---------|
 | Criando e Clonando Repositórios | [Resumo-1]() | 
 
-```
-
 ## 🖇️ Referências
 - [Digital Innovation One](https://www.dio.me/)
