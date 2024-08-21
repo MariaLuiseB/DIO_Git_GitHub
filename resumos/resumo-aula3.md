@@ -1,4 +1,4 @@
-# Desfazendo Alterações no repositório local
+# Desfazendo Alterações no Repositório Local
 
 ## Apagando um repositório .git
 Exemplo: Digamos que você tenha inicializado uma pasta com o git sem querer.
