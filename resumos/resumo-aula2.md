@@ -37,5 +37,3 @@ Para visualizar um histórico mais detalhado do que foi feito:
 ``` 
 git reflog
 ```
-Dessa forma:
-![alt text](image.png)
