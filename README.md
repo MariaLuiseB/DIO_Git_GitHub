@@ -20,7 +20,9 @@ Este é um repositório para armazenar resumos sobre Git e GitHub do curso Versi
 | Criando e Clonando Repositórios | [Resumo-1](resumos/resumo-aula1.md) | 
 | Salvando Alterações no Repositório Local | [Resumo-2](resumos/resumo-aula2.md) | 
 | Desfazendo Alterações no Repositório Local | [Resumo-3](resumos/resumo-aula3.md) | 
-| Enviando e Baixando Alterações do Repositório Local para o Repositório Remoto | [Resumo-4](resumos/resumo-aula4.md) | 
+| Enviando e Baixando Alterações do Repositório Local para o Repositório Remoto | [Resumo-4](resumos/resumo-aula4.md) |
+| Trabalhando com Branches | [Resumo-5] (resumos/resumo-aula5.md) |
+| Comando Úteis no Dia a Dia | [Resumo-6] (resumos/resumo-aula6.md) |
 
 ## 🖇️ Referências
 - [Digital Innovation One](https://www.dio.me/)
